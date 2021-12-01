@@ -1,0 +1,5 @@
+[0729/173055.812:ERROR:process_reader_win.cc(155)] SuspendThread: Accès refusé. (0x5)
+[0729/173055.828:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0729/173055.829:ERROR:exception_snapshot_win.cc(99)] thread ID 163460 not found in process
+[1013/153433.948:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\lhbya\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e14d614d-d5d6-4d2c-b9b5-0ead3a991364: Le chemin d’accès spécifié est introuvable. (0x3)
+[1013/153433.952:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
