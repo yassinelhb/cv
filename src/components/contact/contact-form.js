@@ -1,6 +1,4 @@
 import React from "react";
-import Maps from "../maps/maps";
-import Fade from "react-reveal/Fade";
 import * as emailjs from "emailjs-com";
 
 class ContactForm extends React.Component {

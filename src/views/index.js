@@ -7,7 +7,6 @@ import Experience from "../components/experience/experience";
 import Skills from "../components/skills/skills";
 import Portfolio from "../components/portfolio/portfolio";
 import Contact from "../components/contact/contact";
-import NotFound from "../components/404/notFound";
 import Projet from "../components/projet/projet";
 
 class Index extends React.Component {
@@ -25,7 +24,7 @@ class Index extends React.Component {
           <Portfolio />
           <Contact />
           <div className="yl-logo-img">
-            <img src={process.env.PUBLIC_URL + "assets/img/img.png"} alt="" />
+            <img src={process.env.PUBLIC_URL + "/assets/img/img.png"} alt="" />
           </div>
         </div>
       </div>

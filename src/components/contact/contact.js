@@ -12,7 +12,7 @@ class Contact extends React.Component {
               <span>Age.....</span>25 ans
             </p>
             <p className="list-item">
-              <span>Adresse.....</span>76300 Sotteville-lès-Rouen, France.
+              <span>Adresse.....</span>92220 Bagneux, France
             </p>
             <p className="list-item">
               <span>Email.....</span> yassinelhb1@gmail.com
